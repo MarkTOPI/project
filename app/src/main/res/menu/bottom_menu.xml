@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home2"
+        android:title="Home"
+        android:icon="@drawable/ic_frame_37"
+        />
+    <item
+        android:id="@+id/statics"
+        android:title="Static"
+        android:icon="@drawable/ic_frame_38"
+        />
+    <item
+        android:id="@+id/routines"
+        android:title="Routines"
+        android:icon="@drawable/ic_frame_39"
+        />
+    <item
+        android:id="@+id/profile"
+        android:title="Setting"
+        android:icon="@drawable/ic_frame_42"
+        />
+</menu>
